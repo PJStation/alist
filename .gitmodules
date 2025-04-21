@@ -1,0 +1,6 @@
+[submodule "go-m1cpu"]
+	path = go-m1cpu
+	url = git@github.com:gendago/go-m1cpu.git
+[submodule "gopsutil"]
+	path = gopsutil
+	url = git@github.com:gendago/gopsutil.git
